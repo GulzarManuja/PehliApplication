@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Truck Management System">8e9dd1740fd2a2001dc7db0be1050ec3</application>
+        <assessment/>
+        <content_page/>
+        <device_type>any</device_type>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Truck Management System Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_nyk_truck_manage_truck_management_system_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_nyk_truck_manage.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>gulzar.manuja-tcs@nykgroup.com</sys_created_by>
+        <sys_created_on>2016-10-03 20:57:16</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>239dd1740fd2a2001dc7db0be1050ef1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Truck Management System Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Truck Management System" source="x_nyk_truck_manage">829d95f00fd2a2001dc7db0be1050eeb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Truck Management System">829d95f00fd2a2001dc7db0be1050eeb</sys_scope>
+        <sys_update_name>sys_app_module_239dd1740fd2a2001dc7db0be1050ef1</sys_update_name>
+        <sys_updated_by>gulzar.manuja-tcs@nykgroup.com</sys_updated_by>
+        <sys_updated_on>2016-10-03 20:57:16</sys_updated_on>
+        <timeline_page/>
+        <title>Truck Management System Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

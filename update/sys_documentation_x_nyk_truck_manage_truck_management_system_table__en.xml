@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Truck Management System Table" language="en" table="x_nyk_truck_manage_truck_management_system_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Truck Management System Table</label>
+            <language>en</language>
+            <name>x_nyk_truck_manage_truck_management_system_table</name>
+            <plural>Truck Management System Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>gulzar.manuja-tcs@nykgroup.com</sys_created_by>
+            <sys_created_on>2016-10-03 20:57:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4b9dd1740fd2a2001dc7db0be1050ecf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Truck Management System Table</sys_name>
+            <sys_package display_value="Truck Management System" source="x_nyk_truck_manage">829d95f00fd2a2001dc7db0be1050eeb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Truck Management System">829d95f00fd2a2001dc7db0be1050eeb</sys_scope>
+            <sys_update_name>sys_documentation_x_nyk_truck_manage_truck_management_system_table__en</sys_update_name>
+            <sys_updated_by>gulzar.manuja-tcs@nykgroup.com</sys_updated_by>
+            <sys_updated_on>2016-10-03 20:57:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

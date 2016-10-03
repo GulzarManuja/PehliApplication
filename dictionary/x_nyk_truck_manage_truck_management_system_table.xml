@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Truck Management System Table" max_length="40" name="x_nyk_truck_manage_truck_management_system_table" type="collection"/>
+</database>
